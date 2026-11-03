@@ -1,7 +1,7 @@
 <h1 align="center"><span style="color: #00ffcc;">BitFlipper</span></h1>
 
 <p align="center">
-  A lightweight MicroPython port of Flipper Zero features for the micro:bit v1.
+  A lightweight MicroPython port of some Flipper Zero features for the micro:bit v1.
 </p>
 
 <p align="center">
@@ -12,6 +12,14 @@
 </p>
 
 ---
+
+## <span style="color: #00ffcc;">About</span>
+
+This is a personal project. I am a 13-year-old student, so updates might be infrequent depending on my school schedule. Right now, it only includes a few Flipper Zero features, but I might add more later.
+
+## <span style="color: #00ffcc;">Download</span>
+
+You can download the `main.py` file from the [Releases page](https://github.com/ky2f/BitFlipper/releases/tag/v1).
 
 ## <span style="color: #00ffcc;">Features</span>
 
